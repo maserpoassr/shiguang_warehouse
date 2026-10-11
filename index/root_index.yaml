@@ -1248,3 +1248,8 @@ schools:
     initial: "H"
     resource_folder: "HNU"
 
+
+  - id: "PEU"
+    name: "普洱学院"
+    initial: "P"
+    resource_folder: "PEU"

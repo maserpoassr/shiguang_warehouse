@@ -1,0 +1,8 @@
+adapters:
+  - adapter_id: "PEU_01"
+    adapter_name: "普洱学院"
+    category: "BACHELOR_AND_ASSOCIATE"
+    asset_js_path: "peu_01.js"
+    import_url: "https://jwxt.peu.edu.cn/jwglxt/kbcx/xskbcx_cxXskbcxIndex.html?gnmkdm=N253508&layout=default"
+    maintainer: "拾光课程表用户"
+    description: "普洱学院正方教务系统(v9)，统一身份认证登录后进入教务系统点击开始导入，支持自动获取作息时间与开学日期。"
